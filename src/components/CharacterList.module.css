@@ -1,0 +1,11 @@
+.character-img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: var(--light-shadow);
+}
+.character-name {
+  margin-bottom: 0.35rem;
+  font-size: 0.875rem;
+}
